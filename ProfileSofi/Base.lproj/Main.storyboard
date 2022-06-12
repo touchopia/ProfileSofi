@@ -16,10 +16,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s2e-PQ-hm7">
-                                <rect key="frame" x="169.5" y="418" width="75" height="60"/>
+                                <rect key="frame" x="127" y="426" width="160" height="44"/>
                                 <color key="backgroundColor" red="0.001052846666" green="0.49585682149999999" blue="0.64601773019999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="60" id="2VZ-5x-17X"/>
+                                    <constraint firstAttribute="height" constant="44" id="2VZ-5x-17X"/>
+                                    <constraint firstAttribute="width" constant="160" id="vHC-O3-gOt"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="AvenirNext-DemiBold" family="Avenir Next" pointSize="18"/>
                                 <state key="normal" title="Tap Here">
